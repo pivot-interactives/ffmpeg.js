@@ -1,6 +1,6 @@
 {
   "name": "@pivot-interactives/ffmpeg",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Port of FFmpeg with Emscripten",
   "main": "ffmpeg-webm.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kagami/ffmpeg.js.git"
+    "url": "git+https://github.com/pivot-interactives/ffmpeg.js.git"
   },
   "keywords": [
     "asm.js",
@@ -18,11 +18,10 @@
   ],
   "author": "Kagami Hiiragi",
   "license": "(LGPL-2.1+ OR GPL-2.0)",
-  "ethereum": "0x3ec9a73ba55a22f020226be8b4496304d12be0e1",
   "bugs": {
-    "url": "https://github.com/Kagami/ffmpeg.js/issues"
+    "url": "https://github.com/pivot-interactives/ffmpeg.js/issues"
   },
-  "homepage": "https://github.com/Kagami/ffmpeg.js#readme",
+  "homepage": "https://github.com/pivot-interactives/ffmpeg.js#readme",
   "devDependencies": {
     "chai": "latest",
     "mocha": "latest"
