@@ -1,6 +1,6 @@
 {
-  "name": "ffmpeg.js-pivot",
-  "version": "0.1.0",
+  "name": "@pivot-interactives/ffmpeg",
+  "version": "0.2.0",
   "description": "Port of FFmpeg with Emscripten",
   "main": "ffmpeg-webm.js",
   "scripts": {
