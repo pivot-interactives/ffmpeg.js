@@ -11,7 +11,7 @@ COMMON_DEMUXERS = matroska
 COMMON_DECODERS = vp8 opus
 
 WEBM_MUXERS = webm null image2
-WEBM_ENCODERS = libvpx_vp8 libopus bmp
+WEBM_ENCODERS = libvpx_vp8 libopus ppm
 FFMPEG_WEBM_BC = build/ffmpeg-webm/ffmpeg.bc
 FFMPEG_WEBM_PC_PATH = ../opus/dist/lib/pkgconfig
 WEBM_SHARED_DEPS = \
